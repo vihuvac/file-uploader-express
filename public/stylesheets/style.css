@@ -1,0 +1,20 @@
+body {
+    padding: 50px;
+    font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+    color: #00B7FF;
+}
+
+.preview img {
+    width: 99px;
+}
+
+.form-wrapper {
+    padding: 40px 15px;
+}
+
+.fileupload-buttonbar button {
+    margin-right: 8px;
+}
