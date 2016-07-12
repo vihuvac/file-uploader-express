@@ -1,6 +1,8 @@
 Express Framework and jQuery File Upload
 ========================================
 
+[![Build Status](https://travis-ci.org/vihuvac/file-uploader-express.svg?branch=master)](https://travis-ci.org/vihuvac/file-uploader-express) [![Gitter](https://badges.gitter.im/vihuvac/file-uploader-express.svg)](https://gitter.im/vihuvac/file-uploader-express?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) [![License](http://tools.vihuvac.com/images/collection/git-docs/license-mit.svg)](https://github.com/vihuvac/file-uploader-express/blob/master/LICENSE)
+
 This is an example using [blueimp-file-uploader-express](https://github.com/vihuvac/blueimp-file-uploader-express) node module.
 
 ---
